@@ -12,5 +12,19 @@ The objective of this project was to provide an in-depth analysis of India's COV
 You can access the datasets from this link ---> https://drive.google.com/drive/folders/1PVMLeLX-NfxB97GXF75VKB9OhJXFTXJW?usp=sharing
 
 
-# Dashboards
+# Dashboards and Insights
+
+
+
+![Screenshot 2024-07-01 202720](https://github.com/AYUSH-SHARMA25/Unveiling-Covid-19-Dynamics-In-India/assets/110412915/c0d6557f-ed5c-4e92-bc41-e9a3a6f8ce78)
+
+
+
+![Screenshot 2024-07-01 202953](https://github.com/AYUSH-SHARMA25/Unveiling-Covid-19-Dynamics-In-India/assets/110412915/ca11ec80-71e4-49da-b2f4-c6c326d455bf)
+
+
+
+![Screenshot 2024-07-01 203012](https://github.com/AYUSH-SHARMA25/Unveiling-Covid-19-Dynamics-In-India/assets/110412915/5b67088c-74b8-482c-a6a9-91f0bfa3aefe)
+
+
 
